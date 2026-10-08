@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">kicklounge</string>
+
+    <string-array name="payment_methods">
+        <item>bKash</item>
+        <item>Nagad</item>
+        <item>Credit/Debit Card</item>
+    </string-array>
+</resources>
